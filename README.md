@@ -1,1 +1,1 @@
-# Clinic_managment_system_using_C
+# Clinic_managment_system
